@@ -1,0 +1,6 @@
+this is a sample file too.
+this talks about the staging concepts in git.
+we first put the things in staging and then we commit.
+when extracting the file we pull the file to the staging and then comes to the directory we are pulling to.
+thanks
+
